@@ -7,11 +7,11 @@ Working but ugly.  Terminology may be incorrect.  This was written as a necessit
 ## Example Usage
 For my purpose, I needed the ability to enable two settings when setting up my Ubuntu and Linux Mint workstations.
 
-**Step 1: Enable the Plugin
+**Step 1: Enable the Plugin**
 <pre>
 enable_compiz_plugin put
 </pre>
-**Step 2: Apply the Settings
+**Step 2: Apply the Settings**
 <pre>
 set_compiz_plugin_setting put put-next-output-key '<Shift><Alt>Right'
 
@@ -67,7 +67,7 @@ This script was created based on the knowledge obtained from the Compbiz Configu
 ## Contact
 Please feel free to contact me with any questions or comments:
 
-Fred Lackey
-[fred.lackey@gmail.com](mailto:fred.lackey@gmail.com)
-[www.fredlackey.com](http://www.fredlackey.com)
+Fred Lackey  
+[fred.lackey@gmail.com](mailto:fred.lackey@gmail.com)  
+[www.fredlackey.com](http://www.fredlackey.com)  
 
