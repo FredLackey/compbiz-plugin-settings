@@ -11,7 +11,7 @@ get_compiz_plugin_nickname(){
   echo "$nick"
 }
 get_compiz_plugin_name(){
-  local nick=$(get_compiz_plugin_nickame $1)
+  local nick=$(get_compiz_plugin_nickname $1)
   local name="org.compiz.$nick"
   echo "$name"
 }
